@@ -26,5 +26,5 @@ Las habilidades que aplico en la administración de sistemas —disciplina, paci
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
 
 ## 📫 Cómo contactarme
-- **LinkedIn:** [Alexsander H.](https://linkedin.com/in/alexsander-mariano)
+- **LinkedIn:** [Alexsander H.](www.linkedin.com/in/alexsander-mariano-hinostroza-ramos-578284438)
 - **Email:** hinostroza.ralex@gmail.com
