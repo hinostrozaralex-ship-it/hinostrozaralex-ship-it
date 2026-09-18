@@ -16,9 +16,8 @@ Soy un apasionado de la tecnología y la administración de sistemas, en constan
 
 Las habilidades que aplico en la administración de sistemas —disciplina, paciencia, gestión de recursos y aprendizaje complejo— también definen mi vida fuera de la pantalla:
 
-* 🏋️‍♂️ **Enfoque y Disciplina:** Aplico la metodología *Heavy Duty* en el gimnasio (alta intensidad y bajo volumen). Entiendo el valor de llevar los procesos al límite para generar adaptaciones y crecimiento real. 
-* 🪴 **Paciencia y Precisión:** Cultivo y modelo un *Adenium obesum* como bonsái estilo escoba. El cuidado de los detalles (como usar canela como fungicida natural tras la poda de estructura) me ha enseñado que los grandes resultados requieren tiempo y método.
-* 🗣️ **Lenguajes Complejos:** Mi afición por los idiomas va más allá del código; actualmente estoy estudiando la fonética y los saludos en **Sindarin** (con la vista puesta en el Quenya para el futuro).
+* 🏋️‍♂️ **Enfoque y Disciplina:** Aplicado al gimnasio con metodología, disciplina y persistencia. Entiendo el valor de llevar los procesos al límite para generar adaptaciones y crecimiento real. 
+* 🪴 **Paciencia y Precisión:** Cultivo y modelo un *Adenium obesum* como bonsái estilo escoba. El cuidado de los detalles  me ha enseñado que los grandes resultados requieren tiempo y método.
 * 🎮 **Gestión de Recursos:** En mi tiempo libre, me desconecto cabalgando por el mundo multijugador de *Red Dead Redemption 2*, gestionando el campamento, cazando y explorando al ritmo de la música de Milo J o bandas sonoras del Lejano Oeste.
 
 ## 📈 Mis Estadísticas de GitHub
@@ -27,5 +26,5 @@ Las habilidades que aplico en la administración de sistemas —disciplina, paci
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
 
 ## 📫 Cómo contactarme
-- **LinkedIn:** [Enlace a tu LinkedIn]
-- **Email:** [Tu correo electrónico]
+- **LinkedIn:** [Alexsander H.](https://linkedin.com/in/alexsander-mariano)
+- **Email:** hinostroza.ralex@gmail.com
