@@ -6,7 +6,6 @@
 Soy un apasionado de la tecnología y la administración de sistemas, en constante aprendizaje para construir y mantener infraestructuras de red seguras, eficientes y escalables. 
 
 ## 🛠️ Tecnologías y Herramientas
-*(Nota: Actualiza esta sección con las herramientas específicas que estés viendo en tu grado ASIR)*
 - **Sistemas Operativos:** GNU/Linux (Debian/Ubuntu/CentOS), Windows Server
 - **Redes:** Configuración de routers/switches, Subnetting, TCP/IP
 - **Virtualización y Contenedores:** VMware, VirtualBox, Docker
