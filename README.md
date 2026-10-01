@@ -19,11 +19,6 @@ Las habilidades que aplico en la administración de sistemas —disciplina, paci
 * 🪴 **Paciencia y Precisión:** Cultivo y modelo un *Adenium obesum* como bonsái estilo escoba. El cuidado de los detalles  me ha enseñado que los grandes resultados requieren tiempo y método.
 * 🎮 **Gestión de Recursos:** En mi tiempo libre, me desconecto cabalgando por el mundo multijugador de *Red Dead Redemption 2*, gestionando el campamento, cazando y explorando al ritmo de la música de Milo J o bandas sonoras del Lejano Oeste.
 
-## 📈 Mis Estadísticas de GitHub
-*(Puedes usar herramientas como [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) para generar estas tarjetas dinámicas)*
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
-
 ## 📫 Cómo contactarme
 - **LinkedIn:** [Alexsander H.](www.linkedin.com/in/alexsander-mariano-hinostroza-ramos-578284438)
 - **Email:** hinostroza.ralex@gmail.com
