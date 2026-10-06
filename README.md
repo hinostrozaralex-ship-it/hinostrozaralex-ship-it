@@ -20,5 +20,5 @@ Las habilidades que aplico en la administración de sistemas —disciplina, paci
 * 🎮 **Gestión de Recursos:** En mi tiempo libre, me desconecto cabalgando por el mundo multijugador de *Red Dead Redemption 2*, gestionando el campamento, cazando y explorando al ritmo de la música de Milo J o bandas sonoras del Lejano Oeste.
 
 ## 📫 Cómo contactarme
-- **LinkedIn:** [Alexsander H.](www.linkedin.com/in/alexsander-mariano-hinostroza-ramos-578284438)
+- **LinkedIn:** [Alexsander H.](https://www.linkedin.com/in/alexsander-mariano-hinostroza-ramos-578284438)
 - **Email:** hinostroza.ralex@gmail.com
